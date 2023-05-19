@@ -1,0 +1,15 @@
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/bin/Debug/net7.0/FirstEx19-05-2023
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/bin/Debug/net7.0/FirstEx19-05-2023.deps.json
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/bin/Debug/net7.0/FirstEx19-05-2023.runtimeconfig.json
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/bin/Debug/net7.0/FirstEx19-05-2023.dll
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/bin/Debug/net7.0/FirstEx19-05-2023.pdb
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.csproj.AssemblyReference.cache
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.AssemblyInfoInputs.cache
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.AssemblyInfo.cs
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.csproj.CoreCompileInputs.cache
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.dll
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/refint/FirstEx19-05-2023.dll
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.pdb
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/FirstEx19-05-2023.genruntimeconfig.cache
+/Users/tationkar/Documents/FullStack/CSharp/Seminar_19-05-2023/FirstEx19-05-2023/obj/Debug/net7.0/ref/FirstEx19-05-2023.dll
